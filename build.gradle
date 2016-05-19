@@ -6,7 +6,6 @@ apply plugin: 'application'
 
 mainClassName = "com.adrienf.integration.Main"
 
-
 repositories {
     mavenCentral()
 }
