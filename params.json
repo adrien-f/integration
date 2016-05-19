@@ -1,0 +1,6 @@
+{
+  "name": "Integration",
+  "tagline": "Example d'usage de Git et d'outils d'intégration continue",
+  "body": "# Integration [![Build Status](https://travis-ci.org/adrien-f/integration.svg?branch=master)](https://travis-ci.org/adrien-f/integration) [![codecov](https://codecov.io/gh/adrien-f/integration/branch/master/graph/badge.svg)](https://codecov.io/gh/adrien-f/integration)\r\n\r\n\r\nExample d'usage de Git et d'outils d'intégration continue\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
