@@ -2,7 +2,4 @@ language: java
 jdk:
 - oraclejdk8
 after_success:
-- ./gradlew cobertura coveralls
-env:
-  global:
-    secure: uo7Vp34EIvkYoqiONlh95ShqCbG3jutGwobHpxe9LAG2eQQSKmNObvVNub8Gclb0jxxD/TyFXqjMOwkma3Ph6V2Hz3ASPu3s9YrSbuj5jZKoELWyZAaUugiDCUZN1dhzPeW6YVLqQCb/JmL/TWsyRNFdVlKWTCDZgkTB66ODuNdOfuLkBfrhYeqB7nY+Sd23rm39+5BTK8p3rvMhyMD/yVpJqDtyUN/VNLc9sZngdgunPtdiegPwLQUzgzOsK8xRmywMWHE7nz04+koKfvgTLAIX5lDK59XyB9xo9KdlcGNB51+o5NBsgdbJPKVorCjGEHQs+ApxtuG5AhY9tPYbvLnQSSontr8fNRaXz///rqHPXvrbMCZfwdmoyV34+mdDdMZvcH/FaGGyqOu9mYGEQaxa6cKpv9Gu163gOkUoD4N1WkUCn2KFdEONMweMLulkGQjtrV+ADsn9oIN6JTX76mYaa3dQBjgJvx7hOiMQETjnUYrrOJWkfPtVHzNORY2lUHszkJ71gWcizLMivLvkznRTlPQZcqpUrMtothgEND197lNSBMexB+oZ92NXBE4avIat2PSfVKZ+EtnKA6JfKqMAnhARVo/9o2qEJI7GBVWuFeF3FGt0Nug5P9NezOa3Yn1rCdyLApc9aQYlnRKO+T+/PwEBZoqDjmKBS10hdak=
+  - bash <(curl -s https://codecov.io/bash)
