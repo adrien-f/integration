@@ -15,4 +15,11 @@ public class CalculatorTest {
     public void testSquare() throws Exception {
         assertEquals(Calculator.square(2), 4);
     }
+
+    @Test
+    public void testSub() throws Exception {
+        assertEquals(Calculator.sub(2, 2), 0);
+    }
+
+
 }
