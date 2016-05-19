@@ -1,4 +1,5 @@
-# Integration [![Build Status](https://travis-ci.org/adrien-f/integration.svg?branch=master)](https://travis-ci.org/adrien-f/integration) [![Coverage Status](https://coveralls.io/repos/github/adrien-f/integration/badge.svg?branch=master)](https://coveralls.io/github/adrien-f/integration?branch=master)
+# Integration [![Build Status](https://travis-ci.org/adrien-f/integration.svg?branch=master)](https://travis-ci.org/adrien-f/integration) [![codecov](https://codecov.io/gh/adrien-f/integration/branch/master/graph/badge.svg)](https://codecov.io/gh/adrien-f/integration)
+
 
 Example d'usage de Git et d'outils d'intégration continue
 
